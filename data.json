@@ -29,16 +29,19 @@
     },
     "stories": [
         {
-            "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/preview.jpg?ref_type=heads&inline=false",
+            "preview": "https://github.com/llisow/bomber/raw/main/assets/plan/preview.jpg?ref_type=heads&inline=false",
             "pages": [
                 {
-                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/1.jpg?ref_type=heads&inline=false"
+                    "image": "https://github.com/llisow/bomber/raw/main/assets/plan/0.jpg?ref_type=heads&inline=false"
                 },
                 {
-                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/2.jpg?ref_type=heads&inline=false"
+                    "image": "https://github.com/llisow/bomber/raw/main/assets/plan/1.jpg?ref_type=heads&inline=false"
                 },
                 {
-                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/plan/3.jpg?ref_type=heads&inline=false"
+                    "image": "https://github.com/llisow/bomber/raw/main/assets/plan/2.jpg?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://github.com/llisow/bomber/raw/main/assets/plan/3.jpg?ref_type=heads&inline=false"
                 }
             ]
         },
