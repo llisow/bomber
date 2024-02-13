@@ -13,7 +13,7 @@
         "seconds": 4
     },
     "updates": {
-        "important": true,
+        "important": false,
         "allowDirect": false,
         "description": {
             "_": "<b>Bomber</b> 1.30<br><br>Добавлено 20 сервисов для 🇷🇺"
