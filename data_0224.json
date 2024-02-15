@@ -6,7 +6,7 @@
         },
         "html": true,
         "description": {
-            "_": "<strong>Оплаченный период кончился. Продлить подписку на новый месяц можно в Telegram</strong>"
+            "_": "<strong>Оплаченный период кончился</strong><br>Продлить подписку на новый месяц можно в Telegram"
         },
         "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/2024/2024m.jpg?ref_type=heads&inline=false",
         "url": "https://t.me/stormbomber_app_bot?start=100",
