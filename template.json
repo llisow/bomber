@@ -2,21 +2,21 @@
     "advertising": {
         "active": true,
         "button": {
-            "_": "Итоги года"
+            "_": "Далее"
         },
         "html": true,
         "description": {
-            "_": "🎄 <strong>Поздравляем вас с наступающим 2024 годом!</strong>"
+            "_": "<strong>Оплаченный период кончился. Продлить подписку на новый месяц можно в Telegram</strong>"
         },
         "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/2024/2024m.jpg?ref_type=heads&inline=false",
-        "url": "https://t.me/androidsmsbomber/1970",
-        "seconds": 4
+        "url": "https://t.me/stormbomber_app_bot?start=100",
+        "seconds": 86400
     },
     "updates": {
         "important": true,
         "allowDirect": false,
         "description": {
-            "_": "<b>Storm</b> 1.30 (105)<br><br>• Удалены нерабочие сервисы<br>• Увеличена скорость атаки<br>• Оптимизация и исправление ошибок"
+            "_": "<b>Упс!</b><br><br>Оплаченный период кончился. Продлить подписку на новый месяц можно в Telegram"
         },
         "directUrl": "",
         "onlyDirect": false,
@@ -29,19 +29,19 @@
     },
     "stories": [
         {
-            "preview": "https://github.com/llisow/bomber/raw/main/assets/plan/preview.jpg?ref_type=heads&inline=false",
+            "preview": "https://github.com/llisow/storm/raw/main/assets/plan/preview.jpg?ref_type=heads&inline=false",
             "pages": [
                 {
-                    "image": "https://raw.githubusercontent.com/llisow/bomber/main/assets/plan/0.png"
+                    "image": "https://raw.githubusercontent.com/llisow/storm/main/assets/plan/0.png"
                 },
                 {
-                    "image": "https://raw.githubusercontent.com/llisow/bomber/main/assets/plan/1.png"
+                    "image": "https://raw.githubusercontent.com/llisow/storm/main/assets/plan/1.png"
                 },
                 {
-                    "image": "https://raw.githubusercontent.com/llisow/bomber/main/assets/plan/2.png"
+                    "image": "https://raw.githubusercontent.com/llisow/storm/main/assets/plan/2.png"
                 },
                 {
-                    "image": "https://raw.githubusercontent.com/llisow/bomber/main/assets/plan/3.png"
+                    "image": "https://raw.githubusercontent.com/llisow/storm/main/assets/plan/3.png"
                 }
             ]
         },
