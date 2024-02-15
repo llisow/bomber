@@ -21,7 +21,7 @@
         "directUrl": "",
         "onlyDirect": false,
         "telegramUrl": "https://t.me/stormbomber_app_bot?start=100",
-        "versionCode": 105
+        "versionCode": 106
     },
     "config": {
         "donateAvailable": true,
