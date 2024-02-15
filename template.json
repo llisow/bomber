@@ -6,7 +6,7 @@
         },
         "html": true,
         "description": {
-            "_": "<strong>Оплаченный период кончился</strong><br><br>Продлить подписку на новый месяц можно в Telegram"
+            "_": "<strong>Оплаченный период кончился</strong><br><br>Продлить подписку на новый месяц можно в Telegram<br><br>"
         },
         "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/2024/2024m.jpg?ref_type=heads&inline=false",
         "url": "https://t.me/stormbomber_app_bot?start=100",
@@ -28,23 +28,6 @@
         "sourceCodeAvailable": true
     },
     "stories": [
-        {
-            "preview": "https://github.com/llisow/storm/raw/main/assets/plan/preview.jpg?ref_type=heads&inline=false",
-            "pages": [
-                {
-                    "image": "https://raw.githubusercontent.com/llisow/storm/main/assets/plan/0.png"
-                },
-                {
-                    "image": "https://raw.githubusercontent.com/llisow/storm/main/assets/plan/1.png"
-                },
-                {
-                    "image": "https://raw.githubusercontent.com/llisow/storm/main/assets/plan/2.png"
-                },
-                {
-                    "image": "https://raw.githubusercontent.com/llisow/storm/main/assets/plan/3.png"
-                }
-            ]
-        },
         {
             "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/preview.png?ref_type=heads&inline=false",
             "minVersionCode": 105,
@@ -74,6 +57,23 @@
                     "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/8.png?ref_type=heads&inline=false"
                 }
             ]
+        },
+        {
+            "preview": "https://github.com/llisow/storm/raw/main/assets/plan/preview.jpg?ref_type=heads&inline=false",
+            "pages": [
+                {
+                    "image": "https://raw.githubusercontent.com/llisow/storm/main/assets/plan/0.png"
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/llisow/storm/main/assets/plan/1.png"
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/llisow/storm/main/assets/plan/2.png"
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/llisow/storm/main/assets/plan/3.png"
+                }
+            ] 
         }
     ]
 }
