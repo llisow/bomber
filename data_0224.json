@@ -28,53 +28,7 @@
         "sourceCodeAvailable": true
     },
     "stories": [
-        {
-            "preview": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/preview.png?ref_type=heads&inline=false",
-            "minVersionCode": 105,
-            "pages": [
-                {
-                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/1.png?ref_type=heads&inline=false"
-                },
-                {
-                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/2.png?ref_type=heads&inline=false"
-                },
-                {
-                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/3.png?ref_type=heads&inline=false"
-                },
-                {
-                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/4.png?ref_type=heads&inline=false"
-                },
-                {
-                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/5.png?ref_type=heads&inline=false"
-                },
-                {
-                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/6.png?ref_type=heads&inline=false"
-                },
-                {
-                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/7.png?ref_type=heads&inline=false"
-                },
-                {
-                    "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/history/swat/8.png?ref_type=heads&inline=false"
-                }
-            ]
-        },
-        {
-            "preview": "https://github.com/llisow/storm/raw/main/assets/plan/preview.jpg?ref_type=heads&inline=false",
-            "pages": [
-                {
-                    "image": "https://raw.githubusercontent.com/llisow/storm/main/assets/plan/0.png"
-                },
-                {
-                    "image": "https://raw.githubusercontent.com/llisow/storm/main/assets/plan/1.png"
-                },
-                {
-                    "image": "https://raw.githubusercontent.com/llisow/storm/main/assets/plan/2.png"
-                },
-                {
-                    "image": "https://raw.githubusercontent.com/llisow/storm/main/assets/plan/3.png"
-                }
-            ] 
-        },
+        
         {
             "preview": "https://github.com/llisow/storm/raw/main/assets/false/preview.png",
             "pages": [
