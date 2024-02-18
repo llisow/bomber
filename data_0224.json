@@ -34,7 +34,7 @@
             "pages": [
                 {
                     "image": "https://github.com/llisow/storm/raw/main/assets/false/0.png",
-                    "captionTop": "<font color=\"#38588c\"><h3>Оплаченный период кончился</h3></font>Работа бомбера приостановлена. Для того, чтобы продолжить использовать приложение - необходимо продлить подписку. Сделать это можно в <font color=\"#38588c\"><a href=\"https://t.me/sms_storm_bot\">Telegram</a></font>"
+                    "captionTop": "<br><font color=\"#38588c\"><h3>Оплаченный период кончился</h3></font>Работа бомбера приостановлена. Для того, чтобы продолжить использовать приложение - необходимо продлить подписку. Сделать это можно в <font color=\"#38588c\"><a href=\"https://t.me/sms_storm_bot\">Telegram</a></font>"
                 }
             ]
         }
