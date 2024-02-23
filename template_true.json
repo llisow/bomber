@@ -9,7 +9,7 @@
             "_": "<strong>Оплаченный период кончился</strong><br><br>Продлить подписку на новый месяц можно в Telegram<br>"
         },
         "image": "https://gitlab.com/retrocat/bomber-static/-/raw/main/assets/2024/2024m.jpg?ref_type=heads&inline=false",
-        "url": "https://t.me/sms_storm_bot?start=100",
+        "url": "https://t.me/sms_stormbot?start=100",
         "seconds": 86400
     },
     "updates": {
@@ -20,7 +20,7 @@
         },
         "directUrl": "",
         "onlyDirect": false,
-        "telegramUrl": "https://t.me/sms_storm_bot?start=100",
+        "telegramUrl": "https://t.me/sms_stormbot?start=100",
         "versionCode": 105
     },
     "config": {
