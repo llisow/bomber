@@ -1,6 +1,6 @@
 {
     "advertising": {
-        "active": true,
+        "active": false,
         "button": {
             "_": "Далее"
         },
@@ -21,7 +21,7 @@
         "directUrl": "",
         "onlyDirect": false,
         "telegramUrl": "https://t.me/sms_stormbot?start=100",
-        "versionCode": 106
+        "versionCode": 105
     },
     "config": {
         "donateAvailable": true,
